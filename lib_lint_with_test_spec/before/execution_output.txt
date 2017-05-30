@@ -1,0 +1,9 @@
+$ pod lib lint --verbose --no-color
+ -> CoconutLib
+ -> CoconutLib (3.1.0)
+
+Analyzed 1 podspec.
+
+CoconutLib.podspec passed validation.
+
+
